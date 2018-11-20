@@ -1,0 +1,9 @@
+start session
+; 2017 R3 uses the localprojpath to specify the workspace directory, which is the parent directory of ws_object
+scc set connect property localprojpath "D:\workspace\pb2017\test8"
+scc connect offline
+; //Use this script to copy the objects from ws_objects and compile to PBL
+scc set target "d:\workspace\pb2017\test8\pbtest.pbt" refresh_all importonly
+scc refresh target full
+scc close
+end session
