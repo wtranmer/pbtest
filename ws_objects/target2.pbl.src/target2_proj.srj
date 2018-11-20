@@ -1,0 +1,13 @@
+﻿$PBExportHeader$target2_proj.srj
+EXE:..\..\pb2017\bitbucket\pbtest\target2.exe,,0,0,1
+CMP:0,0,0,2,0,0,1
+COM:Appeon
+DES:Appeon Product File
+CPY:
+PRD:PowerBuilder Enterprise Series
+PVS:1.0.0.1
+PVN:1,0,0,1
+FVS:1.0.0.1
+FVN:1,0,0,1
+MAN:0,asInvoker,0
+PBD:target2.pbl,,0
