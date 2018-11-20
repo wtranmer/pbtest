@@ -3,5 +3,5 @@ Save Format v3.0(19990112)
  0 "pbtest.pbt";
  1 "target2.pbt";
 @end;
-DefaultTarget "target2.pbt";
-DefaultRemoteTarget "target2.pbt";
+DefaultTarget "pbtest.pbt";
+DefaultRemoteTarget "pbtest.pbt";

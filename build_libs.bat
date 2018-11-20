@@ -1,5 +1,5 @@
 set thispath=%~dp0
-set orcabinpath=d:\appeon\shared\powerbuilder\orcascr170.exe
+set orcabinpath=C:\Program Files (x86)\Appeon\Shared\PowerBuilder\orcascr170.exe
 for %%i in (*.pbt) do (
 echo start session > build_libs.orca
 echo scc set connect property localprojpath "." >> build_libs.orca
