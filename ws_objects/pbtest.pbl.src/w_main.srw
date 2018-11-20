@@ -46,6 +46,8 @@ string facename = "Tahoma"
 string text = "Close"
 end type
 
-event clicked;close(w_main)
+event clicked;empty_class e1
+e1 = create empty_class
+close(w_main)
 end event
 
