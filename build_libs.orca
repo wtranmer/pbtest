@@ -1,7 +1,0 @@
-start session 
-scc set connect property localprojpath "." 
-scc connect offline 
-scc set target ".\target2.pbt" refresh_all importonly 
-scc refresh target full 
-scc close 
-end session 

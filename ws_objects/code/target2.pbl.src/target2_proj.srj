@@ -1,5 +1,5 @@
 ﻿$PBExportHeader$target2_proj.srj
-EXE:..\..\pb2017\bitbucket\pbtest\target2.exe,,0,0,1
+EXE:target2.exe,,0,0,1
 CMP:0,0,0,2,0,0,1
 COM:Appeon
 DES:Appeon Product File
