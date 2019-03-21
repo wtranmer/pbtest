@@ -1,0 +1,15 @@
+﻿$PBExportHeader$p_pbtest_exe.srj
+$PBExportComments$Generated Application Executable Project
+EXE:pbtest.exe,,0,1,1
+CMP:0,0,0,2,0,0,1
+COM:Test
+DES:Test
+CPY:
+PRD:Test
+PVS:1.0.0.1
+PVN:1,0,0,1
+FVS:1.0.0.1
+FVN:1,0,0,1
+MAN:0,asInvoker,0
+PBD:pbtest.pbl,,1
+PBD:pbtest_secondary.pbl,,1
