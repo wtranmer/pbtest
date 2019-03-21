@@ -8,7 +8,7 @@ global type empty_class from nonvisualobject
 end type
 global empty_class empty_class
 
-event constructor;messagebox("created", "created empty_class")
+event constructor;messagebox("created empty_class", "I should be in pbtest_secondary.pbl")
 end event
 
 on empty_class.create
