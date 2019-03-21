@@ -3,5 +3,5 @@ Save Format v3.0(19990112)
  0 "code\\pbtest.pbt";
  1 "code\\target2.pbt";
 @end;
-DefaultTarget "code\\target2.pbt";
-DefaultRemoteTarget "code\\target2.pbt";
+DefaultTarget "code\\pbtest.pbt";
+DefaultRemoteTarget "code\\pbtest.pbt";
